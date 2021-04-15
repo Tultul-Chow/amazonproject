@@ -1,0 +1,409 @@
+{
+   "products": [
+      {
+         "id": 1,
+         "title": "Tide",
+         "poster": "cleaning.jpg",
+         "description": "Top rated detergent for laundry",
+         "price": "$10.99",
+         "category":1,
+         "bestSeller": false
+      },
+      {
+         "id": 2,
+         "title": "Borax",
+         "poster": "borax.jpg",
+         "description": "A very good detergent booster todeep clean your clothes.",
+         "price": "$4.99",
+         "category":1,
+         "bestSeller": true
+      },
+      {
+         "id": 3,
+         "title": "Bleach",
+         "poster": "bleach.jpg",
+         "description": "Keep your white clothes super white and shiny",
+         "price": "$5.99",
+         "category":1,
+         "bestSeller": false
+      },
+      {
+         "id": 4,
+         "title": "PineSol",
+         "poster": "pinesol.jpg",
+         "description": "Any kind of surface cleaner",
+         "price": "$10.99",
+         "category":1,
+         "bestSeller" : true
+      },
+      {
+         "id": 5,
+         "title": "Shirt",
+         "poster": "shirt.jpg",
+         "description": "Fabric is very comfortable.",
+         "price": "$34.99",
+         "category":2,
+         "bestSeller": false
+      },
+      {
+         "id": 6,
+         "title": "Plaid Skirt",
+         "poster": "skirt.jpg",
+         "description": "Women will love to have in their wardrobe collection",
+         "price": "$18.99",
+         "category":2,
+         "bestSeller": true
+      },
+      {
+         "id": 7,
+         "title": "Scarf",
+         "poster": "scarf.jpg",
+         "description": "A beatiful addition around neck,keeps warm and beautiful",
+         "price": "$12.99",
+         "category":2,
+         "bestSeller": false
+      },
+      {
+         "id": 8,
+         "title": "Socks",
+         "poster": "socks.jpg",
+         "description": "A comfort to your feet.",
+         "price": "$7.99",
+         "category":2,
+         "bestSeller" : true
+      },
+      {
+         "id": 9,
+         "title": "Candles",
+         "poster": "candle.jpg",
+         "description": "A smell that will freshen up your home",
+         "price": "$10.99",
+         "category":3,
+         "bestSeller": false
+      },
+      {
+         "id": 10,
+         "title": "Lamp",
+         "poster": "lamp.jpg",
+         "description": "A beautiful and bright addition to your living room",
+         "price": "$69.99",
+         "category":3,
+         "bestSeller": true
+      },
+      {
+         "id": 11,
+         "title": "Wall Decor",
+         "poster": "walldecor.jpg",
+         "description": "It enhance the beaut of the wall",
+         "price": "$98.99",
+         "category":3,
+         "bestSeller": false
+      },
+      {
+         "id": 12,
+         "title": "vase",
+         "poster": "vase.jpg",
+         "description": "New addition to your flowers.",
+         "price": "$10.99",
+         "category":3,
+         "bestSeller" : true
+      },
+      {
+         "id": 13,
+         "title": "Pet Bed",
+         "poster": "petbed.jpg",
+         "description": "A soothing place where your pet can take rest",
+         "price": "$28.99",
+         "category":4,
+         "bestSeller": false
+      },
+      {
+         "id": 14,
+         "title": "Pet collar",
+         "poster": "colar.jpg",
+         "description": "A safety for your pets",
+         "price": "$14.34",
+         "category":4,
+         "bestSeller": true
+      },
+      {
+         "id": 15,
+         "title": "Dog Bowl",
+         "poster": "bowl.jpg",
+         "description": "Create a health concious enviroment at your dog's meal-time.",
+         "price": "$5.99",
+         "category":4,
+         "bestSeller": false
+      },
+      {
+         "id": 16,
+         "title": "Dog treats",
+         "poster": "treat.jpg",
+         "description": "A homamade dog tret is sure to be a hit !!!",
+         "price": "$10.99",
+         "category":4,
+         "bestSeller" : true
+      },
+      {
+         "id": 17,
+         "title": "Dog Foods",
+         "poster": "dogFood.jpg",
+         "description": "Loaf in sauce Wet Dog Food, Smoked Bacon and Egg Flavour",
+         "price": "$1.99",
+         "category":4,
+         "bestSeller" : true
+      },
+      {
+         "id": 18,
+         "title": "Dog Carrier",
+         "poster": "dogCarrier.jpg",
+         "description": "Pet Carriers are perfect for vehicle rides, trips to the vet, vacations, or containment within the home",
+         "price": "$31.99",
+         "category":4,
+         "bestSeller" : false
+      },
+      {
+         "id": 19,
+         "title": "Dog Car Seat",
+         "poster": "dogCarrier.jpg",
+         "description": "Pet Safety Booster Seat committed to the safety of you and your dog.",
+         "price": "$41.99",
+         "category":4,
+         "bestSeller" : false
+      },
+      {
+         "id": 20,
+         "title": "Pet Carpet Cleaner",
+         "poster": "petCleaner.jpg",
+         "description": "Pet Expert High Traffic Carpet Cleaner Foam is designed with you in mind. It helps ensure that your high traffic areas (hallways, stairs & living rooms) are clean. ",
+         "price": "$12.99",
+         "category":4,
+         "bestSeller" : false
+      },
+      {
+         "id": 21,
+         "title": "Pet Poop Bag",
+         "poster": "petPoopBag.jpg",
+         "description": "Made of high quality plastic material, wear resistant and not easy to tear, environmentally friendly and durable to use. Compact size and light weight, easy to open and pick up, very suitable for daily use, very convenient and practical. ",
+         "price": "$16.99",
+         "category":4,
+         "bestSeller" : false
+      },
+      {
+         "id": 22,
+         "title": "Pet Play Pen",
+         "poster": "petPlayPen.jpg",
+         "description": "Portable, safe and easy to assemble,The lockable door keeps pets safely inside",
+         "price": "$49.99",
+         "category":4,
+         "bestSeller" : false
+      },
+      {
+         "id": 23,
+         "title": "Pet litter Locker",
+         "poster": "litterLocker.jpg",
+         "description": "The LitterLocker II Round refills are designed to fit the LitterLocker II pails only. These refills can last up to 2 months for a single cat household.",
+         "price": "$18.99",
+         "category":4,
+         "bestSeller" : false
+      },
+      {
+         "id": 24,
+         "title": "Multi Color Litter Scoop",
+         "poster": "liiterScoop.jpg",
+         "description": "Advanced environmentally friendly hard plastic manufacturing, no plastic taste, superior texture, export quality, light and durable, economical.",
+         "price": "$9.99",
+         "category":4,
+         "bestSeller" : false
+      },
+      {
+         "id": 25,
+         "title": "Marvel T-shirt",
+         "poster": "marvelTshirt.jpg",
+         "description": "Fabric is very comfortable.",
+         "price": "$11.99",
+         "category":2,
+         "bestSeller": true
+      },
+      {
+         "id": 26,
+         "title": "Men's Straight Jeans",
+         "poster": "jeans.jpg",
+         "description": "Make a statement everywhere you go. Our Rock and Republic Jean features: Midrise, Relaxed fit, Zipper fly with branded button closure.",
+         "price": "$25.99",
+         "category":2,
+         "bestSeller": false
+      },
+      {
+         "id": 27,
+         "title": "Kids Jacket",
+         "poster": "windBreaker.jpg",
+         "description": "She can still play on a rainy day in George girls' bonded soft shell jacket. This jacket bonded with mesh is made with four-way stretch and is styled with a hood, a full-zip closure and long sleeves with elasticized cuffs.",
+         "price": "$25.99",
+         "category":2,
+         "bestSeller": true
+      },
+      {
+         "id": 28,
+         "title": "Set of 2 Girl's dress",
+         "poster": "girlDress.jpg",
+         "description": "Keeping her stocked up on her favourites is easy with George girls' short sleeve skater dress 2-pack. Composed of jersey knit, each dress is styled with short sleeves and a round neckline.",
+         "price": "$9.99",
+         "category":2,
+         "bestSeller": false
+      },
+      {
+         "id": 29,
+         "title": "Kids Pokemon Watch",
+         "poster": "pokemonWatch.jpg",
+         "description": "This is a multi-function interactive watch for children, which features various functions, such as, Camera ,Video, Calculator, Voice Recorder, Clock Dial, Alarm, Pedometer and Album Viewer. ",
+         "price": "$29.99",
+         "category":2,
+         "bestSeller": false
+      },
+      {
+         "id": 30,
+         "title": "Kids Superman Watch",
+         "poster": "supermanWatch.jpg",
+         "description": "This is a multi-function interactive watch for children, which features various functions, such as, Camera ,Video, Calculator, Voice Recorder, Clock Dial, Alarm, Pedometer and Album Viewer. ",
+         "price": "$19.99",
+         "category":2,
+         "bestSeller": false
+      },
+      {
+         "id": 31,
+         "title": "Swim Short",
+         "poster": "swimShort.jpg",
+         "description": "100% Polyester • Microfibre twill, open hole micro mesh,Soft hand feel,Elasticized waistband with drawstring,All-over print",
+         "price": "$6.99",
+         "category":2,
+         "bestSeller": true
+      },
+      {
+         "id": 32,
+         "title": "Colorful Socks",
+         "poster": "10Socks.jpg",
+         "description": " boys' 10 pack crew socks will be his first choice for everyday wear. This pack includes 10 pairs styled with a classic crew length and two assorted colours.",
+         "price": "$8.99",
+         "category":2,
+         "bestSeller": true
+      },
+      {
+         "id": 33,
+         "title": "Toilet Paper",
+         "poster": "toiletPaper.jpg",
+         "description": "High-quality 2-ply toilet paper that is quilted to feel irresistibly soft and thick.",
+         "price": "$15.99",
+         "category":1,
+         "bestSeller": false
+      },
+      {
+         "id": 34,
+         "title": "Mr Clean",
+         "poster": "mrClean.jpg",
+         "description": "Mr. Clean's Multi-Purpose Pet Liquid Cleaner with Febreze Odor Defense not only has the muscle to cut through dirt, grease and grime, but also cuts through Pet messes, odor and dirt. ",
+         "price": "$3.99",
+         "category":1,
+         "bestSeller": false
+      },
+      {
+         "id": 35,
+         "title": "Windex",
+         "poster": "windex.jpg",
+         "description": "Combine Windex streak-free shine and the fresh scent of lavender to lighten and brighten every room of the house. ",
+         "price": "$4.99",
+         "category":1,
+         "bestSeller": false
+      },
+      {
+         "id": 36,
+         "title": "Lysol",
+         "poster": "lysol.jpg",
+         "description": " Pour directly on stains for spot cleaning, Dilute in water for use on large surfaces like floors",
+         "price": "$9.99",
+         "category":1,
+         "bestSeller": false
+      },
+      {
+         "id": 37,
+         "title": "Gain Laundry Detergent",
+         "poster": "gain.jpg",
+         "description": " Liquid laundry detergent with brilliant cleaning performance that leaves behind a refreshing Gain Original scent. Smells great because it cleans great!",
+         "price": "$9.99",
+         "category":1,
+         "bestSeller": false
+      },
+      {
+         "id": 38,
+         "title": "Palolive Dishwashing Liquid",
+         "poster": "palmolive.jpg",
+         "description": "Leaves even your toughtest dishes, pots, and pans sparkling clean. Tough on grease, soft on hands.",
+         "price": "$9.99",
+         "category":1,
+         "bestSeller": false
+      },
+      {
+         "id": 39,
+         "title": " Dishwashing Soap bar",
+         "poster": "soapBar.jpg",
+         "description": "Pure Soap has been trusted by consumers for over 100 years. It is effective for stain removal, being used in the kitchen, and cleaning surfaces. ",
+         "price": "$2.99",
+         "category":1,
+         "bestSeller": true
+      },
+      {
+         "id": 40,
+         "title": "Vim with Bleach",
+         "poster": "vim.jpg",
+         "description": "A multi-purpose cleaner that can be used both as a bathroom cleaner and kitchen cleaner, it is a household multi-tasker that's tough on dirt, scum, watermarks, grease and burnt-on food, and can help make things look new again..",
+         "price": "$2.99",
+         "category":1,
+         "bestSeller": false
+      },
+      {
+         "id": 41,
+         "title": "2 Pack Decorative Pillows",
+         "poster": "cushion.jpg",
+         "description": "A bold, embroidered-cushion, paired with a plush, velvet cushion of the same colour. ",
+         "price": "$24.99",
+         "category":3,
+         "bestSeller": false
+      },
+      {
+         "id": 42,
+         "title": "Peel and Stick wallpaper",
+         "poster": "wallDeco.jpg",
+         "description": "Removable and repositionable, these wall decals can be applied to any smooth, flat surface.",
+         "price": "$15.99",
+         "category":3,
+         "bestSeller": false
+      },
+      {
+         "id": 43,
+         "title": "Wooden Clock",
+         "poster": "clock.jpg",
+         "description": "Commerical Wallclock, is simple and basic for any office, class room, or any place of business/education.",
+         "price": "$16.99",
+         "category":3,
+         "bestSeller": true
+      },
+      {
+         "id": 44,
+         "title": "Wall Cube Shelf ",
+         "poster": "3pc.jpg",
+         "description": "Wood cube shelves of various sizes in a rich wood-like looks.",
+         "price": "$16.99",
+         "category":3,
+         "bestSeller": true
+      },
+      {
+         "id": 45,
+         "title": "Scented Accent",
+         "poster": "warmer.jpg",
+         "description": "The wax warmer combines light, fragrance and artistic design to create a unique, personalized ambiance in any room. ",
+         "price": "$13.99",
+         "category":3,
+         "bestSeller": false
+      }
+   ]
+}
