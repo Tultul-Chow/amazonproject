@@ -236,7 +236,7 @@
       },
       {
          "id": 27,
-         "title": "Kids Jacket",
+         "title": "Jacket",
          "poster": "windBreaker.jpg",
          "description": "She can still play on a rainy day in George girls' bonded soft shell jacket. This jacket bonded with mesh is made with four-way stretch and is styled with a hood, a full-zip closure and long sleeves with elasticized cuffs.",
          "price": "$25.99",
@@ -245,7 +245,7 @@
       },
       {
          "id": 28,
-         "title": "Set of 2 Girl's dress",
+         "title": "Jumpsuit",
          "poster": "girlDress.jpg",
          "description": "Keeping her stocked up on her favourites is easy with George girls' short sleeve skater dress 2-pack. Composed of jersey knit, each dress is styled with short sleeves and a round neckline.",
          "price": "$9.99",
@@ -254,7 +254,7 @@
       },
       {
          "id": 29,
-         "title": "Kids Pokemon Watch",
+         "title": "Watch -Brown",
          "poster": "pokemonWatch.jpg",
          "description": "This is a multi-function interactive watch for children, which features various functions, such as, Camera ,Video, Calculator, Voice Recorder, Clock Dial, Alarm, Pedometer and Album Viewer. ",
          "price": "$29.99",
@@ -263,7 +263,7 @@
       },
       {
          "id": 30,
-         "title": "Kids Superman Watch",
+         "title": "Yellow Watch",
          "poster": "supermanWatch.jpg",
          "description": "This is a multi-function interactive watch for children, which features various functions, such as, Camera ,Video, Calculator, Voice Recorder, Clock Dial, Alarm, Pedometer and Album Viewer. ",
          "price": "$19.99",
@@ -299,7 +299,7 @@
       },
       {
          "id": 34,
-         "title": "Mr Clean",
+         "title": "Cleaning product",
          "poster": "mrClean.jpg",
          "description": "Mr. Clean's Multi-Purpose Pet Liquid Cleaner with Febreze Odor Defense not only has the muscle to cut through dirt, grease and grime, but also cuts through Pet messes, odor and dirt. ",
          "price": "$3.99",
@@ -308,7 +308,7 @@
       },
       {
          "id": 35,
-         "title": "Windex",
+         "title": "Window Cleaner",
          "poster": "windex.jpg",
          "description": "Combine Windex streak-free shine and the fresh scent of lavender to lighten and brighten every room of the house. ",
          "price": "$4.99",
@@ -362,7 +362,7 @@
       },
       {
          "id": 41,
-         "title": "2 Pack Decorative Pillows",
+         "title": "Decorative Pillows",
          "poster": "cushion.jpg",
          "description": "A bold, embroidered-cushion, paired with a plush, velvet cushion of the same colour. ",
          "price": "$24.99",
@@ -380,7 +380,7 @@
       },
       {
          "id": 43,
-         "title": "Wooden Clock",
+         "title": "Clock",
          "poster": "clock.jpg",
          "description": "Commerical Wallclock, is simple and basic for any office, class room, or any place of business/education.",
          "price": "$16.99",

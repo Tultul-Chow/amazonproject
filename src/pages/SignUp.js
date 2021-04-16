@@ -36,9 +36,13 @@ const SignUp = () => {
             setErrorPassword("! Enter Your Password");
             isValidated = false;
         }
+        else if (password.length<5 && password.length<13) {
+            setErrorPassword("! Please 6-12 characters");
+            isValidated = false;
+        }
 
         else if (!password.match(/^(?=.*\d)(?=.*[a-zA-Z])[a-zA-Z0-9]{7,}$/)) {
-                setErrorPassword("! Please enter 6-12 digits");
+                setErrorPassword("! Only letters and numbers.");
                 isValidated = false;
             }
 

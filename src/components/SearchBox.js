@@ -8,7 +8,7 @@ const SearchBox = (props) => {
     return (
         <section >
            <form action="/productlist" method="get" className="col-md-4">
-                <input  placeholder="Search" name="searchquery" style={{width:"400%",height:"600%"}} type="text" 
+                <input  placeholder="Search" name="searchquery" style={{width:"400%",height:"800%"}} type="text" 
                 value={searchBox}  onChange={(event)=>{
                     setSearchBox(event.target.value);
                     }}/>

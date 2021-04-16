@@ -3,6 +3,8 @@ import image from '../images/cleaningToolHero.jpg'
 import image2 from '../images/cleaninghero.png'
 import image3 from '../images/petbed.jpg'
 import image4 from '../images/petHero.jpg'
+import { Carousel } from 'react-responsive-carousel';
+import "react-responsive-carousel/lib/styles/carousel.min.css";
 
 const CategoryView = () => {
 
@@ -23,7 +25,12 @@ const CategoryView = () => {
     }, []);
 
     return (
-          <img className="category" src={images[count]} alt="" />
+        <div class="carousel-wrapper">
+        <Carousel>
+        <img className="category" src={images[count]} alt="" />
+        
+        </Carousel>
+    </div>
         
     )
 }
