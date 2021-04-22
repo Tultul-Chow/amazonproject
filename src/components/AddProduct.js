@@ -11,7 +11,7 @@ const AddProduct = () => {
     })
     const submitForm = (e) => {
         e.preventDefault();
-        fetch("http://localhost:5000/products", {
+        fetch("https://amazonapp-fakedb.herokuapp.com/products", {
             method: "POST",
             headers: {
                 'Content-type': 'application/json'

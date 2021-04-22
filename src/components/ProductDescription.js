@@ -9,7 +9,7 @@ const ProductDescription = () => {
 
     useEffect(() => {
 
-        fetch("http://localhost:3333/products/" + id)
+        fetch("https://amazonapp-fakedb.herokuapp.com/products/" + id)
             .then(res => res.json())
             .then((products) => {
                setProduct(products)

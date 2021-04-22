@@ -31,13 +31,13 @@ const App = () => {
 
   useEffect(() => {
 
-    fetch("http://localhost:3333/products")
+    fetch("https://amazonapp-fakedb.herokuapp.com/products")
         .then(res => res.json())
         .then(data => {
             setProducts(data);
         });
 
-    fetch("http://localhost:3333/products?category=1")
+    fetch("https://amazonapp-fakedb.herokuapp.com/products?category=1")
       .then(res => res.json())
       .then((data) => {
 
@@ -47,7 +47,7 @@ const App = () => {
         });
     })
       .catch(err => console.log(`Error ${err}`));
-    fetch("http://localhost:3333/products?category=2")
+    fetch("https://amazonapp-fakedb.herokuapp.com/products?category=2")
       .then(res => res.json())
       .then((data) => {
         setClothings((previousState) => {
@@ -56,7 +56,7 @@ const App = () => {
         });
     })
       .catch(err => console.log(`Error ${err}`));
-    fetch("http://localhost:3333/products?category=3")
+    fetch("https://amazonapp-fakedb.herokuapp.com/products?category=3")
       .then(res => res.json())
       .then((data) => {
         setHomes((previousState) => {
@@ -66,7 +66,7 @@ const App = () => {
     })
       .catch(err => console.log(`Error ${err}`));
 
-    fetch("http://localhost:3333/products?category=4")
+    fetch("https://amazonapp-fakedb.herokuapp.com/products?category=4")
       .then(res => res.json())
       .then((data) => {
         setPets((previousState) => {
@@ -75,7 +75,7 @@ const App = () => {
         });
     })
       .catch(err => console.log(`Error ${err}`));
-    fetch("http://localhost:3333/products?bestSeller=true")
+    fetch("https://amazonapp-fakedb.herokuapp.com/products?bestSeller=true")
       .then(res => res.json())
       .then((data) => {
         setBestSellers((previousState) => {
