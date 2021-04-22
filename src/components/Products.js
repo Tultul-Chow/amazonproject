@@ -6,7 +6,7 @@ const Products = ({id,title,poster,price}) => {
 
     const source = `/img/${poster}`;
     return (
-        <div style={{border:"solid navy"}} className="movie-card">
+        <div style={{border:"solid rgb(197, 170, 15)"}} className="movie-card">
            <Link to = {"/products/"+id}>
                 <img src={source} alt={alt}/>   
             </Link> 

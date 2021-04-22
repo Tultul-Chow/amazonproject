@@ -29,7 +29,7 @@
       },
       {
          "id": 4,
-         "title": "PineSol",
+         "title": "Dettol",
          "poster": "pinesol.jpg",
          "description": "Any kind of surface cleaner",
          "price": "$10.99",
@@ -335,7 +335,7 @@
       },
       {
          "id": 38,
-         "title": "Palolive Dishwashing Liquid",
+         "title": "Palmolive Dishwashing Liquid",
          "poster": "palmolive.jpg",
          "description": "Leaves even your toughtest dishes, pots, and pans sparkling clean. Tough on grease, soft on hands.",
          "price": "$9.99",
@@ -353,7 +353,7 @@
       },
       {
          "id": 40,
-         "title": "Vim with Bleach",
+         "title": "Cleaning Wipes",
          "poster": "vim.jpg",
          "description": "A multi-purpose cleaner that can be used both as a bathroom cleaner and kitchen cleaner, it is a household multi-tasker that's tough on dirt, scum, watermarks, grease and burnt-on food, and can help make things look new again..",
          "price": "$2.99",
@@ -389,7 +389,7 @@
       },
       {
          "id": 44,
-         "title": "Wall Cube Shelf ",
+         "title": "Wall Shelf ",
          "poster": "3pc.jpg",
          "description": "Wood cube shelves of various sizes in a rich wood-like looks.",
          "price": "$16.99",

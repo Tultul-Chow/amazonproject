@@ -5,14 +5,14 @@ const ProductDescription = () => {
 
     const {id} = useParams();
     const [product, setProduct] = useState({});
+    
 
     useEffect(() => {
 
         fetch("http://localhost:3333/products/" + id)
             .then(res => res.json())
             .then((products) => {
-               
-                setProduct(products)
+               setProduct(products)
             })
             .catch(err => console.log(`Error ${err}`));
 
