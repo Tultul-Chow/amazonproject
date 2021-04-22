@@ -1,5 +1,6 @@
 import React from 'react'
 import img1 from '../images/kadeemSir.jpg'
+import img from '../images/pet.jpg'
 
 const AboutUs = () => {
     return (
@@ -13,7 +14,7 @@ const AboutUs = () => {
 <div className="about-row">
   <div className="about-column">
     <div className="about-card">
-      <img src={img1} alt="Jane" style={{width:"100%"}}/>
+      <img src={img} alt="" style={{width:"100%"}}/>
       <div className="about-container">
         <h2>Tultul Chowdhury</h2>
         <p className="about-title">Web Developer</p>
@@ -26,7 +27,7 @@ const AboutUs = () => {
 
   <div className="about-column">
     <div className="about-card">
-      <img src={img1}  alt="Mike" style={{width:"100%"}}/>
+      <img src={img1}  alt="" style={{width:"100%"}}/>
       <div className="about-container">
         <h2>Kadeem Best</h2>
         <p className="about-title">My Mentor</p>
